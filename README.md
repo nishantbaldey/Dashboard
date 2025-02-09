@@ -42,8 +42,6 @@ This project is a dashboard application built with React and Tailwind CSS. It di
 1. Clone the repository:
 
 
-
-   ```bash
-
-   git clone https://github.com/nishantbaldey/Dashboard.git
+```bash
+git clone https://github.com/nishantbaldey/Dashboard.git
 ```
